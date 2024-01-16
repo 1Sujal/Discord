@@ -1,0 +1,18 @@
+DOWNLOADYTVIDEOSOUNDS
+
+In this code, I used pytube to download yt songs. I mainly created this code to download songs from yt
+It is for discord bot. Run the code and send !download <yt_video_link> in discord chat in order to download the song.
+
+FACEBOOKTODISCORD
+
+In this code, I used selenium and requests.
+It needs facebook account email and password in order to work.
+You can add the link of the group you want to extract videos of in the code given.
+
+TEXTEXTRACTBOT
+
+I created this code in order to extract code from youtube videos. It can extract text from any kinda image(I wont say any but still)
+According to my uses, it extracts text about 80% correct. 
+
+Thats it.
+Discord: _killerguy__
